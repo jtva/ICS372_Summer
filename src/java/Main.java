@@ -8,7 +8,9 @@ public class Main {
 
 	public static void main(String[] args) {
 		System.out.println("Hello Steve, June, and Armeya!");
+		System.out.println("I am June! I like to june.");
 
 	}
+	
 
 }
